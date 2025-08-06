@@ -1,6 +1,6 @@
 {
- "version":"6.1F",
- "title":"🛠️ Update Available V6.1F 🛠️",
+ "version":"1.26F",
+ "title":"🛠️ Update Available V1.26F 🛠️",
  "description":"Update now new version enjoy best experience.
 
 ✅ VOWhatsApp V1.25F
