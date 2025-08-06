@@ -1,9 +1,14 @@
 {
- "version":"21.20",
- "title":"🛠️ تحديث جديد ممتع  🛠️",
- "description":"يحتوي على العديد من المزايا الجديد الرائعة | مزيد إصلاحات وتحسينات أخرى مهم
-🆕 يجب عليك الاشتراك الان 👇
+ "version":"1.25F",
+ "title":"🛠️ Update Available V1.25F 🛠️",
+ "description":"Update now new version enjoy best experience.
 
- ➡ يجب عليك تحميل التحديث الجديد من هذا الرابط 👇 .",
+✅ VOWhatsApp V1.25F
+
+⏫ Updated base 2.25.15.80
+🆕 Fixed linked device issues. 
+🆕 Fix bugs and more.
+
+ ➡ New update download now .",
 "download":"https://t.me/VD_AN"
 }
