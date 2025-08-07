@@ -1,6 +1,6 @@
 {
-  "version": "1.25",
-  "title": "🛠 Update Available V1.25 🛠",
+  "version": "1.21",
+  "title": "🛠 Update Available V1.21 🛠",
   "description": "Update now to enjoy the best experience.\n\n✅ VOWhatsApp Plus\n⏫ Updated base: 2.25.15.80\n🆕 Fixed linked device issues\n🆕 Bug fixes and more improvements\n\n➡️ Download the new update now!",
   "download": "https://t.me/VD_AN"
 }
