@@ -1,14 +1,14 @@
 { 
- "version":"1.88", 
- "title":"🛠️ تحديث متوفر V1.88 🛠️", 
+ "version":"1.89F", 
+ "title":"🛠️ تحديث متوفر V1.89F 🛠️", 
  "description":"قم بالتحديث الآن واستمتع بأفضل تجربة. 
 
-✅ VOWhatsApp Plus V1.88
+✅ VOWhatsApp Plus V1.89F
 
 ⏫ قاعدة بيانات محدثة 2.26.19.73 
 🆕 إصلاح مشكلة ربط الجهاز. 
 🆕 إصلاح الأخطاء والمزيد. 
 
  ➡ رابط التحميل في وصف الفيديو.", 
-"download":"https://t.me/VO_SH" 
+"download":"https://youtu.be/sRZHMUf5uv8" 
 }
