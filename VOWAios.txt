@@ -10,5 +10,5 @@
 🆕 إصلاح الأخطاء والمزيد. 
 
  ➡ رابط التحميل في وصف الفيديو.", 
-"download":"https://youtu.be/sRZHMUf5uv8" 
+"download":"https://youtu.be/bJJNzBJHKes" 
 }
